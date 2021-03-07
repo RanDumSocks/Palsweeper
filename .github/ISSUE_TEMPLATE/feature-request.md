@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea, feature, or change in GRiDLE
+about: Suggest an idea, feature, or change
 title: "[SUGGESTION]"
 labels: 'Status: Pending, Type 1: Enhancement'
 assignees: ''
@@ -18,3 +18,6 @@ A clear and concise description of any alternative solutions or features you've 
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
+
+**Issue Dependencies**
+Does your issue depend on any other issues to be completed first? Link them here
